@@ -18,7 +18,7 @@ a{
 .header{
     width: 100%;
     background-color: aquamarine;
-    background: url("C:/Users/OFFME/Desktop/start2/images/фон.jpg");
+    background: url("../images/фон.jpg");
     background-repeat: no-repeat;
     height: 900px;
     position: relative;
@@ -285,7 +285,7 @@ h1{
                 text-align: left;
             }
             .connector{
-                background: url("C:/Users/OFFME/Desktop/start2/images/фон2.jpg");
+                background: url("../images/фон2.jpg");
                 height: 500px;
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -469,7 +469,7 @@ h1{
 
                     .footer{
                         background: #303030;
-                        background: url("C:/Users/OFFME/Desktop/start2/images/footer.png");
+                        background: url("../images/footer.png");
                         height: 730px;
                         background-repeat: no-repeat;
                         background-size: cover;
